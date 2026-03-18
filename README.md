@@ -13,7 +13,7 @@ S.No Name of the apparatus Range / Type Quantity
 4 Wires 1/18” As per requirement
 5 P.V.C Pipe 1/4" As per requirement
 6 Wooden Board - 1 No.
-7 Round block - 1 No
+7 Round block - 1 No.
 
 PROCEDURE
 
